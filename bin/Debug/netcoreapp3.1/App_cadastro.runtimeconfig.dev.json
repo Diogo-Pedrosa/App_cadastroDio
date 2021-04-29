@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dioga\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dioga\\.nuget\\packages"
+    ]
+  }
+}

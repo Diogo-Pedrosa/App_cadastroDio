@@ -1,0 +1,13 @@
+C:\Users\dioga\Desktop\paulobird\App_cadastro\bin\Debug\netcoreapp3.1\App_cadastro.exe
+C:\Users\dioga\Desktop\paulobird\App_cadastro\bin\Debug\netcoreapp3.1\App_cadastro.deps.json
+C:\Users\dioga\Desktop\paulobird\App_cadastro\bin\Debug\netcoreapp3.1\App_cadastro.runtimeconfig.json
+C:\Users\dioga\Desktop\paulobird\App_cadastro\bin\Debug\netcoreapp3.1\App_cadastro.runtimeconfig.dev.json
+C:\Users\dioga\Desktop\paulobird\App_cadastro\bin\Debug\netcoreapp3.1\App_cadastro.dll
+C:\Users\dioga\Desktop\paulobird\App_cadastro\bin\Debug\netcoreapp3.1\App_cadastro.pdb
+C:\Users\dioga\Desktop\paulobird\App_cadastro\obj\Debug\netcoreapp3.1\App_cadastro.csprojAssemblyReference.cache
+C:\Users\dioga\Desktop\paulobird\App_cadastro\obj\Debug\netcoreapp3.1\App_cadastro.AssemblyInfoInputs.cache
+C:\Users\dioga\Desktop\paulobird\App_cadastro\obj\Debug\netcoreapp3.1\App_cadastro.AssemblyInfo.cs
+C:\Users\dioga\Desktop\paulobird\App_cadastro\obj\Debug\netcoreapp3.1\App_cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dioga\Desktop\paulobird\App_cadastro\obj\Debug\netcoreapp3.1\App_cadastro.dll
+C:\Users\dioga\Desktop\paulobird\App_cadastro\obj\Debug\netcoreapp3.1\App_cadastro.pdb
+C:\Users\dioga\Desktop\paulobird\App_cadastro\obj\Debug\netcoreapp3.1\App_cadastro.genruntimeconfig.cache
